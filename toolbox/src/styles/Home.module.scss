@@ -1,0 +1,22 @@
+.container {
+    .swiper1 {
+        width: 100%;
+        height: 384px;
+        margin-bottom: 20px;
+        .swiperSlide {
+            img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+            }
+        }
+    }
+}
+
+.swiper-button-next {
+    color: white;
+}
+.swiper-button-prev {
+    color: white;
+}
+
